@@ -12,3 +12,4 @@ C:\KULIAH\KPL\tpmodul4_1302220033\tpmodul4_1302220033\obj\Debug\net8.0\refint\tp
 C:\KULIAH\KPL\tpmodul4_1302220033\tpmodul4_1302220033\obj\Debug\net8.0\tpmodul4_1302220033.pdb
 C:\KULIAH\KPL\tpmodul4_1302220033\tpmodul4_1302220033\obj\Debug\net8.0\tpmodul4_1302220033.genruntimeconfig.cache
 C:\KULIAH\KPL\tpmodul4_1302220033\tpmodul4_1302220033\obj\Debug\net8.0\ref\tpmodul4_1302220033.dll
+C:\KULIAH\KPL\tpmodul4_1302220033\tpmodul4_1302220033\obj\Debug\net8.0\tpmodul4_1302220033.sourcelink.json
